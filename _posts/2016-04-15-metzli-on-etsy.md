@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.etsy.com'
-  name: Etsy
-  favicon: 'https://www.etsy.com/images/favicon.ico'
-  domain: www.etsy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.etsy.com/people/melycota'
+inLanguage: en
+starred: false
 keywords:
   - reiki
   - love
@@ -18,17 +17,20 @@ keywords:
   - master
   - supplies
 description: 'I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com'
-inLanguage: en
+datePublished: '2016-04-15T22:58:42.041Z'
+dateModified: '2016-04-15T22:57:27.063Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.etsy.com/people/melycota'
 title: Metzli on Etsy
-datePublished: '2016-04-15T22:57:23.773Z'
-dateModified: '2016-04-15T22:55:40.824Z'
 sourcePath: _posts/2016-04-15-metzli-on-etsy.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Etsy
+  domain: www.etsy.com
+  url: 'https://www.etsy.com'
+  favicon: 'https://www.etsy.com/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
