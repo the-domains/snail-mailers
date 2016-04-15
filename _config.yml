@@ -1,0 +1,14 @@
+layout_spectrum: 0.3882068
+color:
+  saturation: 0.32525
+  lightness: 0.5602037
+  brandStrength: 0.9500536
+  brandColors:
+    - '#FFFFFF'
+    - '#125688'
+    - '#25272A'
+    - '#5CB4CF'
+    - '#F1C642'
+  rhythmicContrast: 0.6551721
+typography_spectrum: 0.6654136
+name: Snail Mailers
