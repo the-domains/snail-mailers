@@ -17,8 +17,8 @@ keywords:
   - master
   - supplies
 description: 'I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com'
-datePublished: '2016-04-15T22:58:42.041Z'
-dateModified: '2016-04-15T22:57:27.063Z'
+datePublished: '2016-04-15T23:07:18.800Z'
+dateModified: '2016-04-15T22:58:50.403Z'
 author: []
 related: []
 app_links: []
