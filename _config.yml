@@ -1,14 +1,29 @@
+name: Snail Mailers
+favicon: null
 layout_spectrum: 0.3882068
+typography_spectrum: 0.6654136
+title: Snail Mailers
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.32525
-  lightness: 0.5602037
-  brandStrength: 0.9500536
   brandColors:
     - '#FFFFFF'
     - '#125688'
     - '#25272A'
     - '#5CB4CF'
     - '#F1C642'
+  brandStrength: 0.9500536
+  lightness: 0.5602037
+  saturation: 0.32525
   rhythmicContrast: 0.6551721
-typography_spectrum: 0.6654136
-name: Snail Mailers
+purpose: []
