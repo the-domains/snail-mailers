@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.etsy.com/people/melycota'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - reiki
   - love
@@ -16,9 +16,9 @@ keywords:
   - colors
   - master
   - supplies
-description: 'I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com'
-datePublished: '2016-04-15T23:08:34.935Z'
-dateModified: '2016-04-15T23:07:40.813Z'
+description: "Team Captain \_ \_"
+datePublished: '2016-04-15T23:19:00.269Z'
+dateModified: '2016-04-15T23:10:45.569Z'
 author: []
 related: []
 app_links: []
