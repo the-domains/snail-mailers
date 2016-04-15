@@ -4,7 +4,7 @@
         <description><![CDATA[Snail Mailers]]></description>
         <link>https://thegrid.ai/snail-mailers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 23:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 23:16:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/snail-mailers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Metzli on Etsy]]></title>
@@ -26,20 +26,6 @@
             <link>https://www.etsy.com/people/TheArtistFamily</link>
             <guid isPermaLink="false">e47613b0-f52e-4f9d-b9a7-29c1295684d2</guid>
             <pubDate>Fri, 15 Apr 2016 22:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blog]]></title>
-            <description><![CDATA[<article><h1>Blog</h1><p>My Reiki Lifestyle Blog</p></article>]]></description>
-            <link>http://www.metzlislight.com/</link>
-            <guid isPermaLink="false">d136797e-3c78-4180-a1bb-33669e9e5536</guid>
-            <pubDate>Fri, 15 Apr 2016 22:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce33ba88-4a96-492e-a2c1-c49d0451c7e8.jpg">]]></description>
-            <link>https://thegrid.ai/snail-mailers/398ade03-a1e6-402b-8df7-31a3b2fdf688/index.html</link>
-            <guid isPermaLink="false">398ade03-a1e6-402b-8df7-31a3b2fdf688</guid>
-            <pubDate>Fri, 15 Apr 2016 21:13:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
