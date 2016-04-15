@@ -17,8 +17,8 @@ keywords:
   - master
   - supplies
 description: 'I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com'
-datePublished: '2016-04-15T23:07:18.800Z'
-dateModified: '2016-04-15T22:58:50.403Z'
+datePublished: '2016-04-15T23:08:34.935Z'
+dateModified: '2016-04-15T23:07:40.813Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+Team Captain    
+
 <article style=""><h1>Metzli on Etsy</h1><p>I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com</p><img src="https://img1.etsystatic.com/128/0/32954291/iusa_75x75.35474455_omkx.jpg" /></article>
