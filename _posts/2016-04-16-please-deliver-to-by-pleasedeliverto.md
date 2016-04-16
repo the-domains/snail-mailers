@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.etsy.com'
-  name: Etsy
-  favicon: 'https://www.etsy.com/images/favicon.ico'
-  domain: www.etsy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.etsy.com/shop/pleasedeliverto'
+inLanguage: en
+starred: false
 keywords:
   - postcard
   - geeky
@@ -18,7 +17,10 @@ keywords:
   - slayer
   - facebook
 description: 'Browse unique items from pleasedeliverto on Etsy, a global marketplace of handmade, vintage and creative goods.'
-inLanguage: en
+datePublished: '2016-04-16T23:43:49.927Z'
+dateModified: '2016-04-16T23:40:38.350Z'
+author: []
+related: []
 app_links:
   - url: 'etsy://shop/7449807?ref=applinks_ios'
     type: ios
@@ -30,15 +32,15 @@ app_links:
     namespace: ai
     app_name: Etsy
     package: com.etsy.android
-isBasedOnUrl: 'https://www.etsy.com/shop/pleasedeliverto'
 title: Please Deliver To by pleasedeliverto
-datePublished: '2016-04-16T23:40:30.029Z'
-dateModified: '2016-04-16T23:38:17.684Z'
 sourcePath: _posts/2016-04-16-please-deliver-to-by-pleasedeliverto.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Etsy
+  domain: www.etsy.com
+  url: 'https://www.etsy.com'
+  favicon: 'https://www.etsy.com/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
