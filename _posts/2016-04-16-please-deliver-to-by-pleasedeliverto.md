@@ -17,8 +17,8 @@ keywords:
   - slayer
   - facebook
 description: 'Browse unique items from pleasedeliverto on Etsy, a global marketplace of handmade, vintage and creative goods.'
-datePublished: '2016-04-16T23:43:49.927Z'
-dateModified: '2016-04-16T23:40:38.350Z'
+datePublished: '2016-04-16T23:46:01.815Z'
+dateModified: '2016-04-16T23:45:56.829Z'
 author: []
 related: []
 app_links:
@@ -45,4 +45,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+**Team member **
+
 <article style=""><h1>Please Deliver To by pleasedeliverto</h1><p>Browse unique items from pleasedeliverto on Etsy, a global marketplace of handmade, vintage and creative goods.</p><img src="https://img0.etsystatic.com/036/0/10325543/iusa_fullxfull.27779062_3oa6.jpg" /></article>
