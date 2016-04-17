@@ -17,12 +17,12 @@ keywords:
   - mail
   - heirloom
 description: "I'm a mom and part-time creative. I love handmade gifts, and supporting independent and local business and I create handmade heirloom gifts bags and other items for thoughtful gifting. I also LOVE snail mail (part of the beauty of shopping online, and supporting Etsy makers around the world) and wanted to share that joy with my kids, so I created Petit Mail - story cards for preschoolers and early readers."
-datePublished: '2016-04-16T23:56:39.980Z'
-dateModified: '2016-04-16T23:56:28.675Z'
+datePublished: '2016-04-17T05:34:51.372Z'
+dateModified: '2016-04-17T05:34:40.971Z'
 author: []
 related: []
 app_links: []
-title: Alison on Etsy
+title: 'Alison '
 sourcePath: _posts/2016-04-16-alison-on-etsy.md
 published: true
 authors: []
