@@ -17,12 +17,12 @@ keywords:
   - northstarcrafts
   - manilla
 description: Team Leader
-datePublished: '2016-04-17T05:24:52.473Z'
-dateModified: '2016-04-17T05:24:52.126Z'
+datePublished: '2016-04-17T06:33:31.845Z'
+dateModified: '2016-04-17T06:33:07.143Z'
 author: []
 related: []
 app_links: []
-title: Valley and Brian on Etsy
+title: 'Valley and Brian '
 sourcePath: _posts/2016-04-15-valley-and-brian-on-etsy.md
 published: true
 authors: []
