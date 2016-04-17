@@ -17,8 +17,8 @@ keywords:
   - envie
   - cards
 description: "Team Member Shop\_"
-datePublished: '2016-04-16T23:58:20.314Z'
-dateModified: '2016-04-16T23:58:10.490Z'
+datePublished: '2016-04-17T00:00:26.301Z'
+dateModified: '2016-04-17T00:00:17.380Z'
 author: []
 related: []
 app_links:
@@ -45,6 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-**Team Member Shop **
-
 <article style=""><h1>Recycling, One Page at a Time by PostalEnvie</h1><p>Browse unique items from PostalEnvie on Etsy, a global marketplace of handmade, vintage and creative goods.</p><img src="https://img0.etsystatic.com/136/0/12755930/isla_fullxfull.18996710_bpbupglc.jpg" /></article>
