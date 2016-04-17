@@ -4,7 +4,7 @@
         <description><![CDATA[Snail Mailers]]></description>
         <link>https://thegrid.ai/snail-mailers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 05:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 06:30:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/snail-mailers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Metzli on Etsy]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/snail-mailers/metzli-on-etsy/index.html</link>
             <guid isPermaLink="false">3781543d-f0d8-416d-85e7-1ffe88ddbd68</guid>
             <pubDate>Sun, 17 Apr 2016 04:45:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[JA Sholar on Etsy]]></title>
+            <description><![CDATA[<article><h1>JA Sholar on Etsy</h1><p>The work that I do and wonderful little things I create all mean a lot to me. They are not only an expression of myself but also are motivated from irrepressible ambition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee30ed39aaf4ae405d96b32db302a1d97da660cb.jpg"></article>]]></description>
+            <link>https://www.etsy.com/people/ShopPureHeart</link>
+            <guid isPermaLink="false">cada0d44-c109-453a-9984-b12b9c494ec4</guid>
+            <pubDate>Sun, 17 Apr 2016 06:29:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Julie and Denise]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/snail-mailers/join-the-team-here/index.html</link>
             <guid isPermaLink="false">77f36882-9058-4595-b301-6332add71f45</guid>
             <pubDate>Sun, 17 Apr 2016 04:55:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Member Shop: PostalEnvie,Recycling, One Page at a Time]]></title>
-            <description><![CDATA[<article><h1>Member Shop: PostalEnvie,Recycling, One Page at a Time</h1><p>Browse unique items from PostalEnvie on Etsy, a global marketplace of handmade, vintage and creative goods.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2db1f85ec97c152ac68d672eed24f8b9b2ef66ed.jpg"></article>]]></description>
-            <link>https://www.etsy.com/shop/PostalEnvie</link>
-            <guid isPermaLink="false">414403d1-4be7-4050-baac-c762a32ebd04</guid>
-            <pubDate>Sun, 17 Apr 2016 00:00:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
