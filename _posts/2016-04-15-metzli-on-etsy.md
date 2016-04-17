@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.etsy.com/people/melycota'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - master
   - supplies
 description: "Team Captain \_ \_"
-datePublished: '2016-04-17T04:36:57.508Z'
-dateModified: '2016-04-17T00:01:28.640Z'
+datePublished: '2016-04-17T04:45:28.897Z'
+dateModified: '2016-04-17T04:44:44.902Z'
 author: []
 related: []
 app_links: []
@@ -31,10 +30,9 @@ publisher:
   domain: www.etsy.com
   url: 'https://www.etsy.com'
   favicon: 'https://www.etsy.com/images/favicon.ico'
+url: metzli-on-etsy/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Team Captain    
-
 <article style=""><h1>Metzli on Etsy</h1><p>I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com</p><img src="https://img1.etsystatic.com/128/0/32954291/iusa_75x75.35474455_omkx.jpg" /></article>
