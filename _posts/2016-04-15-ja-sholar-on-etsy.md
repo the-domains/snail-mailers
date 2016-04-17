@@ -17,12 +17,12 @@ keywords:
   - work
   - knot
 description: The work that I do and wonderful little things I create all mean a lot to me. They are not only an expression of myself but also are motivated from irrepressible ambition.
-datePublished: '2016-04-17T15:42:51.216Z'
-dateModified: '2016-04-17T06:29:25.933Z'
+datePublished: '2016-04-17T15:43:37.961Z'
+dateModified: '2016-04-17T15:42:55.495Z'
 author: []
 related: []
 app_links: []
-title: JA Sholar on Etsy
+title: 'Team Leader: JA Sholar '
 sourcePath: _posts/2016-04-15-ja-sholar-on-etsy.md
 published: true
 authors: []
