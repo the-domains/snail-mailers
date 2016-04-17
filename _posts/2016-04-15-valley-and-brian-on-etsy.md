@@ -16,9 +16,9 @@ keywords:
   - find
   - northstarcrafts
   - manilla
-description: "Hi! We are Valley and Brian, the creative couple who run A Little Lemonade Stand (our personal website is NorthStarCrafts.com ). If you're looking for fun, variety snail mail kits, exclusive scrapbooking supplies, or rubber stamps that you will find nowhere else, you've come to the right place."
-datePublished: '2016-04-16T23:34:57.147Z'
-dateModified: '2016-04-16T23:32:59.294Z'
+description: Team Leader
+datePublished: '2016-04-17T05:24:52.473Z'
+dateModified: '2016-04-17T05:24:52.126Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-**Team Leader**
-
 <article style=""><h1>Valley and Brian on Etsy</h1><p>Hi! We are Valley and Brian, the creative couple who run A Little Lemonade Stand (our personal website is NorthStarCrafts.com ). If you're looking for fun, variety snail mail kits, exclusive scrapbooking supplies, or rubber stamps that you will find nowhere else, you've come to the right place.</p><img src="https://img0.etsystatic.com/047/0/13164481/iusa_75x75.28522724_7w3p.jpg" /></article>
