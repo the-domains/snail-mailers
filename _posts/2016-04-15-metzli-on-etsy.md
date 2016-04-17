@@ -16,8 +16,8 @@ keywords:
   - master
   - supplies
 description: "Team Captain \_ \_"
-datePublished: '2016-04-17T04:45:28.897Z'
-dateModified: '2016-04-17T04:44:44.902Z'
+datePublished: '2016-04-17T06:32:38.046Z'
+dateModified: '2016-04-17T06:32:16.832Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Metzli on Etsy</h1><p>I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com</p><img src="https://img1.etsystatic.com/128/0/32954291/iusa_75x75.35474455_omkx.jpg" /></article>
+<article style=""><h1>Team Captain: Metzli</h1><p>I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61c2c9068d20f557f70dc21bd300170df54f644c.jpg" /></article>
