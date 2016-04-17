@@ -17,8 +17,8 @@ keywords:
   - work
   - knot
 description: The work that I do and wonderful little things I create all mean a lot to me. They are not only an expression of myself but also are motivated from irrepressible ambition.
-datePublished: '2016-04-17T06:29:18.231Z'
-dateModified: '2016-04-17T06:28:03.615Z'
+datePublished: '2016-04-17T15:42:51.216Z'
+dateModified: '2016-04-17T06:29:25.933Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>JA Sholar on Etsy</h1><p>The work that I do and wonderful little things I create all mean a lot to me. They are not only an expression of myself but also are motivated from irrepressible ambition.</p><img src="https://img1.etsystatic.com/105/0/23525070/iusa_75x75.37371449_hqs2.jpg" /></article>
+<article style=""><h1>JA Sholar</h1><p>The work that I do and wonderful little things I create all mean a lot to me. They are not only an expression of myself but also are motivated from irrepressible ambition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee30ed39aaf4ae405d96b32db302a1d97da660cb.jpg" /></article>
