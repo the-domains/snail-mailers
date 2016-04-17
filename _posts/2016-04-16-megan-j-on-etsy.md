@@ -16,9 +16,9 @@ keywords:
   - designer
   - snail
   - subscriptions
-description: 'Self Taught Designer and Photographer and All- Around- Creative Putting my years of inter-netting, free magazine subscriptions and creative talents to use, making recycled Magazine Envelopes for all of you Snail Mailers, Pen Pallers and Creative Gifters! Born and raised in Colorado. Mother, Girlfriend, photographer, designer, creative, reader, writer, quirky, lover of all things vintage!'
-datePublished: '2016-04-16T23:52:14.230Z'
-dateModified: '2016-04-16T23:51:43.627Z'
+description: "Team Member\_"
+datePublished: '2016-04-17T05:20:41.529Z'
+dateModified: '2016-04-17T05:20:36.982Z'
 author: []
 related:
   - score: 0.6282576919
@@ -37,18 +37,16 @@ related:
     thumbnail_width: 768
 app_links: []
 title: Megan J. on Etsy
+sourcePath: _posts/2016-04-16-megan-j-on-etsy.md
+published: true
 authors: []
 publisher:
   name: Etsy
   domain: www.etsy.com
   url: 'https://www.etsy.com'
   favicon: 'https://www.etsy.com/images/favicon.ico'
-sourcePath: _posts/2016-04-16-megan-j-on-etsy.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-**Team Member **
-
 <article style=""><h1>Megan J. on Etsy</h1><p>Self Taught Designer and Photographer and All- Around- Creative Putting my years of inter-netting, free magazine subscriptions and creative talents to use, making recycled Magazine Envelopes for all of you Snail Mailers, Pen Pallers and Creative Gifters! Born and raised in Colorado. Mother, Girlfriend, photographer, designer, creative, reader, writer, quirky, lover of all things vintage!</p><img src="https://img1.etsystatic.com/130/0/72538794/iusa_75x75.39841099_mqvb.jpg" /></article>
