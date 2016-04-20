@@ -16,10 +16,12 @@ keywords:
   - designer
   - snail
   - subscriptions
-description: "Team Member\_"
-datePublished: '2016-04-17T05:20:41.529Z'
-dateModified: '2016-04-17T05:20:36.982Z'
-author: []
+description: 'Self Taught Designer and Photographer and All- Around- Creative Putting my years of inter-netting, free magazine subscriptions and creative talents to use, making recycled Magazine Envelopes for all of you Snail Mailers, Pen Pallers and Creative Gifters! Born and raised in Colorado. Mother, Girlfriend, photographer, designer, creative, reader, writer, quirky, lover of all things vintage!'
+datePublished: '2016-04-20T04:37:29.255Z'
+dateModified: '2016-04-20T04:37:27.511Z'
+author:
+  - name: ''
+    url: ''
 related:
   - score: 0.6282576919
     description: "Creativity can be as elusive as it is rewarding. Inspiration usually lies just beyond the intellect's reach, sparking our best work and sneaking away when we need it most-right before that big deadline. Our daily routines can either nurture or hold back our creativity."
@@ -49,4 +51,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Megan J. on Etsy</h1><p>Self Taught Designer and Photographer and All- Around- Creative Putting my years of inter-netting, free magazine subscriptions and creative talents to use, making recycled Magazine Envelopes for all of you Snail Mailers, Pen Pallers and Creative Gifters! Born and raised in Colorado. Mother, Girlfriend, photographer, designer, creative, reader, writer, quirky, lover of all things vintage!</p><img src="https://img1.etsystatic.com/130/0/72538794/iusa_75x75.39841099_mqvb.jpg" /></article>
+<article style=""><h1>Team Member: Megan J.</h1><p>Self Taught Designer and Photographer and All- Around- Creative Putting my years of inter-netting, free magazine subscriptions and creative talents to use, making recycled Magazine Envelopes for all of you Snail Mailers, Pen Pallers and Creative Gifters! Born and raised in Colorado. Mother, Girlfriend, photographer, designer, creative, reader, writer, quirky, lover of all things vintage!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/136713c780f6f10e77d102b5693184c185b6f82c.jpg" /></article>
