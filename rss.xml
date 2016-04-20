@@ -4,7 +4,7 @@
         <description><![CDATA[Snail Mailers]]></description>
         <link>https://thegrid.ai/snail-mailers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 04:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 04:45:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/snail-mailers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Team Captain: Metzli]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/snail-mailers/metzli-on-etsy/index.html</link>
             <guid isPermaLink="false">3781543d-f0d8-416d-85e7-1ffe88ddbd68</guid>
             <pubDate>Sun, 17 Apr 2016 06:32:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Digital Postcards by Metzli]]></title>
+            <description><![CDATA[<article><h1>Digital Postcards by Metzli</h1><p> Life Gives, Fresh Love Notes Are Best, Smile at Life Child, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89d89cd96231f8b1e23e71e9177ea94154ae85a1.jpg"></article>]]></description>
+            <link>https://www.etsy.com/listing/228960597/digital-post-cards-printable-post-cards?ref=shop_home_listings</link>
+            <guid isPermaLink="false">492308ac-f6d9-4474-a79e-c4946d973db1</guid>
+            <pubDate>Wed, 20 Apr 2016 04:45:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Team Member: Please Deliver To ]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.etsy.com/people/thepetitcadeau</link>
             <guid isPermaLink="false">16cec008-0f29-4335-be0f-1aba8a9ca893</guid>
             <pubDate>Sun, 17 Apr 2016 05:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Want to be a part of the Team?]]></title>
-            <description><![CDATA[<p>Join Snail Mailers Here:</p>]]></description>
-            <link>https://thegrid.ai/snail-mailers/join-the-team-here/index.html</link>
-            <guid isPermaLink="false">77f36882-9058-4595-b301-6332add71f45</guid>
-            <pubDate>Sun, 17 Apr 2016 04:55:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
