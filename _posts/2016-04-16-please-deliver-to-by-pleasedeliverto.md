@@ -16,10 +16,12 @@ keywords:
   - discount
   - slayer
   - facebook
-description: "Team member\_"
-datePublished: '2016-04-17T05:38:59.546Z'
-dateModified: '2016-04-17T05:38:45.430Z'
-author: []
+description: ''
+datePublished: '2016-04-20T04:42:47.400Z'
+dateModified: '2016-04-20T04:42:44.645Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links:
   - url: 'etsy://shop/7449807?ref=applinks_ios'
@@ -32,7 +34,7 @@ app_links:
     namespace: ai
     app_name: Etsy
     package: com.etsy.android
-title: Please Deliver To by pleasedeliverto
+title: 'Team Member: Please Deliver To '
 sourcePath: _posts/2016-04-16-please-deliver-to-by-pleasedeliverto.md
 published: true
 authors: []
@@ -47,4 +49,4 @@ _type: MediaObject
 ---
 ****
 
-<article style=""><h1>Please Deliver To by pleasedeliverto</h1><p>Browse unique items from pleasedeliverto on Etsy, a global marketplace of handmade, vintage and creative goods.</p><img src="https://img0.etsystatic.com/036/0/10325543/iusa_fullxfull.27779062_3oa6.jpg" /></article>
+<article style=""><h1>Team Member: Please Deliver To </h1><p>Please Deliver T, Mail Art Shop </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/727b5728815fcbe2a765304caf165c2a6ca12606.jpg" /></article>
