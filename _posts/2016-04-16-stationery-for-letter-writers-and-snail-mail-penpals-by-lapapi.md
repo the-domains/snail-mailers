@@ -17,8 +17,8 @@ keywords:
   - codes
   - sss
 description: Team Member Shop
-datePublished: '2016-04-17T06:42:23.877Z'
-dateModified: '2016-04-17T06:42:05.186Z'
+datePublished: '2016-04-20T04:38:46.773Z'
+dateModified: '2016-04-17T06:42:28.694Z'
 author: []
 related: []
 app_links:
@@ -45,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Stationery for letter writers &amp; snail mail penpals by LaPapierre</h1><p>Browse unique items from LaPapierre on Etsy, a global marketplace of handmade, vintage and creative goods.</p><img src="https://img0.etsystatic.com/133/0/5882409/isla_fullxfull.17218064_sijbyyr7.jpg" /></article>
+<article style=""><h1>Stationery for letter writers &amp; snail mail penpals by LaPapierre</h1><p>Team Member Shop</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/693b2c7bdc8b0bc3cca62c05b8d8bcf81819bb6d.jpg" /></article>
