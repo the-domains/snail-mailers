@@ -15,13 +15,15 @@ keywords:
   - colors
   - master
   - supplies
-description: "Team Captain \_ \_"
-datePublished: '2016-04-17T06:32:38.046Z'
-dateModified: '2016-04-17T06:32:16.832Z'
-author: []
+description: 'Meet your Team Captain and Site Coordinator Metzli. Metzli is a lover of the written word, and wishes she could read other peoples journals for a living. '
+datePublished: '2016-04-20T15:58:33.086Z'
+dateModified: '2016-04-20T15:58:23.207Z'
+author:
+  - name: ''
+    url: www.melissacota.com
 related: []
 app_links: []
-title: Metzli on Etsy
+title: 'Team Captain: Metzli'
 sourcePath: _posts/2016-04-15-metzli-on-etsy.md
 published: true
 authors: []
@@ -35,4 +37,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Team Captain: Metzli</h1><p>I am a Reiki Master who loves to spread love and light. I love sending love through Reiki, and the mail :) I love bright colors, craft supplies, personalized goods and getting mail! You can read more about me at www.metzlislight.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61c2c9068d20f557f70dc21bd300170df54f644c.jpg" /></article>
+<article style=""><h1>Team Captain: Metzli</h1><p>Meet your Team Captain and Site Coordinator Metzli. Metzli is a lover of the written word, and wishes she could read other peoples journals for a living. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61c2c9068d20f557f70dc21bd300170df54f644c.jpg" /></article>
