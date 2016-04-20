@@ -17,8 +17,8 @@ keywords:
   - snail
   - subscriptions
 description: 'Self Taught Designer and Photographer and All- Around- Creative Putting my years of inter-netting, free magazine subscriptions and creative talents to use, making recycled Magazine Envelopes for all of you Snail Mailers, Pen Pallers and Creative Gifters! Born and raised in Colorado. Mother, Girlfriend, photographer, designer, creative, reader, writer, quirky, lover of all things vintage!'
-datePublished: '2016-04-20T04:37:29.255Z'
-dateModified: '2016-04-20T04:37:27.511Z'
+datePublished: '2016-04-20T04:38:11.976Z'
+dateModified: '2016-04-20T04:38:05.252Z'
 author:
   - name: ''
     url: ''
@@ -38,7 +38,7 @@ related:
     thumbnail_url: 'http://cdn.slidesharecdn.com/ss_thumbnails/kpjrhx5stgaqoaesnh7r-signature-3f945d39ba23dd9cfcfd3fee5874bd5293c55aa2180b30512d3379a1f65479ee-poli-150716175148-lva1-app6892-thumbnail-4.jpg?cb=1438021298'
     thumbnail_width: 768
 app_links: []
-title: Megan J. on Etsy
+title: 'Team Member: Megan J.'
 sourcePath: _posts/2016-04-16-megan-j-on-etsy.md
 published: true
 authors: []
