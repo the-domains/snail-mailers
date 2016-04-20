@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.etsy.com'
-  name: Etsy
-  favicon: 'https://www.etsy.com/images/favicon.ico'
-  domain: www.etsy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.etsy.com/listing/228960597/digital-post-cards-printable-post-cards?ref=shop_home_listings'
+inLanguage: en
+starred: false
 keywords:
   - cards
   - postcards
@@ -17,8 +16,13 @@ keywords:
   - printable
   - 6in
   - side
-description: "Digital Post Cards, Printable Post Cards, Life Gives, Fresh Love Notes Are Best, Smile at Life Child, Collage Style Postcards Thank you for visiting my shop! Did you know that you can print postcards from home? No, you don't need a fancy printer, you don't even need to know how to print out double sided."
-inLanguage: en
+description: ' Life Gives, Fresh Love Notes Are Best, Smile at Life Child, '
+datePublished: '2016-04-20T04:45:56.851Z'
+dateModified: '2016-04-20T04:44:16.266Z'
+author:
+  - name: 'Metzli Smith '
+    url: www.melissacota.com
+related: []
 app_links:
   - url: 'etsy://listing/228960597?ref=applinks_ios'
     type: ios
@@ -45,17 +49,17 @@ app_links:
     type: googleplay
     name: Etsy
     id: com.etsy.android
-isBasedOnUrl: 'https://www.etsy.com/listing/228960597/digital-post-cards-printable-post-cards?ref=shop_home_listings'
-title: 'Digital Post Cards, Printable Post Cards, Life Gives, Fresh Love Notes Are Best, Smile at Life Child, Collage Style Postcards'
-datePublished: '2016-04-16T01:43:41.304Z'
-dateModified: '2016-04-16T01:42:38.213Z'
+title: Digital Postcards by Metzli
 sourcePath: _posts/2016-04-16-digital-post-cards-printable-post-cards-life-gives-fresh.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Etsy
+  domain: www.etsy.com
+  url: 'https://www.etsy.com'
+  favicon: 'https://www.etsy.com/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Digital Post Cards, Printable Post Cards, Life Gives, Fresh Love Notes Are Best, Smile at Life Child, Collage Style Postcards</h1><p>Digital Post Cards, Printable Post Cards, Life Gives, Fresh Love Notes Are Best, Smile at Life Child, Collage Style Postcards Thank you for visiting my shop! Did you know that you can print postcards from home? No, you don't need a fancy printer, you don't even need to know how to print out double sided.</p><img src="https://img0.etsystatic.com/067/0/8086030/il_570xN.753379260_362m.jpg" /></article>
+<article style=""><h1>Digital Postcards by Metzli</h1><p> Life Gives, Fresh Love Notes Are Best, Smile at Life Child, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89d89cd96231f8b1e23e71e9177ea94154ae85a1.jpg" /></article>
